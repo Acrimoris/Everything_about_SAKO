@@ -1,5 +1,5 @@
 # Quick history
-SAKO (Automatic Operation Coding System) - algorithmic language of Polish computers: XYZ, ZAM-2, ZAM-21 and ZAM-41 focused on receiving an effective code. Initially, it only supported fixed decimal calculations. In the version for ZAM-21 and ZAM-41, a variable decimal point has been added.
+SAKO (System Automatycznego Kodowania (Automatic Operation Coding System)) - algorithmic language of Polish computers: XYZ, ZAM-2, ZAM-21 and ZAM-41 focused on receiving an effective code. Initially, it only supported fixed decimal calculations. In the version for ZAM-21 and ZAM-41, a variable decimal point has been added.
 
 General features of the SAKO language:
 - commands similar to sentences used in natural language
