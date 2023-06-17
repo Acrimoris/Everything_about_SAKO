@@ -49,4 +49,4 @@ Authors:
 - Antoni W. Mazurkiewicz
 - A. P. Yershov / Andrej Petrovič Eršov / Andriej P. Jerszow
 
-Andbig "Thank you" to all libraries and online archives containing files and documents.
+And big "Thank you" to all libraries and online archives containing files and documents.
