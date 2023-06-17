@@ -16,13 +16,13 @@ The most characteristic feature of SAKO are Polish commands, e.g. READ, JUMP TO.
 Designed primarily for programming numerical calculations. The larger systems at the Military University of Technology were transformed into a system of calculations using the finite element method.
 
 # Why?
-It took me over a dozen hours to find and collect all of this data. (I know I'm not very good at searching)
-I even travelled to Warsaw to find some of the information.
-Why am I creating this repository? For fun. I had some time off and was bored.
+It took me over a dozen hours to find and collect all of this data. (I know I'm not very good at searching)<br>
+I even travelled to Warsaw to find some of the information.<br>
+Why am I creating this repository? For fun. I had some time off and was bored.<br>
 Sorry for the bad quality of files. I had to reduce it's size because of how Github works.
 
 # Thanks
-I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.
+I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.<br>
 Creators:
 - Leon Łukaszewicz
 - Antoni W. Mazurkiewicz
