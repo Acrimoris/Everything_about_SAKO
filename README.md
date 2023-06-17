@@ -19,3 +19,36 @@ Designed primarily for programming numerical calculations. The larger systems at
 It took me over a dozen hours to find and collect all of this data. (I know I'm not very good at searching)
 I even travelled to Warsaw to find some of the information.
 Why am I creating this repository? For fun. I had some time off and was bored.
+
+# Thanks
+I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.
+Creators:
+- Leon Łukaszewicz
+- Antoni W. Mazurkiewicz
+- Jan Borowiec
+- Jerzy Swianewicz
+- Jowita Koncewicz
+- Piotr Szorc
+- Maria Łącka
+- Alfred Szurman
+- Stefan Sawicki
+- Andrzej Wiśniewski
+
+Participating in creation:
+- Ludwik Czaja
+- Jacek Witaszek
+- Danuta Kosecka
+- Ewa Zaborowska
+
+Authors:
+- Jan Szmelter
+- Krystyna Balińska-Deloff
+- Leon Łukaszewicz
+- Henryk Zub
+- Antoni W. Mazurkiewicz
+- A. P. Yershov
+
+Redactors:
+
+
+And all libraries and online archives containing files and documents.
