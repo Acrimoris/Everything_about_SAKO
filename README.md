@@ -19,6 +19,7 @@ Designed primarily for programming numerical calculations. The larger systems at
 It took me over a dozen hours to find and collect all of this data. (I know I'm not very good at searching)
 I even travelled to Warsaw to find some of the information.
 Why am I creating this repository? For fun. I had some time off and was bored.
+Sorry for the bad quality of files. I had to reduce it's size because of how Github works.
 
 # Thanks
 I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.
