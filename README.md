@@ -49,12 +49,4 @@ Authors:
 - Antoni W. Mazurkiewicz
 - A. P. Yershov / Andrej Petrovič Eršov / Andriej P. Jerszow
 
-Redactors:
-- Leon Łukaszewicz
-- Antoni Mazurkiewicz
-- Tomasz Pietrzykowski
-- Dorota Prawdzic
-- Zdzisław Wrzesz
-- Redaktor działowy: Krzysztof Moszyński
-
-And all libraries and online archives containing files and documents.
+Andbig "Thank you" to all libraries and online archives containing files and documents.
