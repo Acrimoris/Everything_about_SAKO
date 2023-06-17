@@ -26,7 +26,7 @@ Creators:
 - Leon Łukaszewicz
 - Antoni W. Mazurkiewicz
 - Jan Borowiec
-- Jerzy Swianewicz
+- Jerzy Swianiewicz
 - Jowita Koncewicz
 - Piotr Szorc
 - Maria Łącka
