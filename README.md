@@ -47,7 +47,7 @@ Authors:
 - Leon Łukaszewicz
 - Henryk Zub
 - Antoni W. Mazurkiewicz
-- A. P. Yershov / Andrej Petrovič Eršov
+- A. P. Yershov / Andrej Petrovič Eršov / Andriej P. Jerszow
 
 Redactors:
 
