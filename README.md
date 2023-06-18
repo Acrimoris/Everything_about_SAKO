@@ -12,7 +12,7 @@ The compilation proceeded in two stages:
 1. From SAKO to SAS macro assembler.
 2. From SAS to machine language.
 
-The most characteristic feature of SAKO are Polish commands, e.g. READ, JUMP TO.
+The most characteristic feature of SAKO are Polish commands, e.g. CZYTAJ, SKOCZ DO.
 Designed primarily for programming numerical calculations. The larger systems at the Military University of Technology were transformed into a system of calculations using the finite element method.
 
 # Why?
