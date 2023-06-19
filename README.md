@@ -16,9 +16,9 @@ The most characteristic feature of SAKO are Polish commands, e.g. CZYTAJ, SKOCZ 
 Designed primarily for programming numerical calculations. The larger systems at the Military University of Technology were transformed into a system of calculations using the finite element method.
 
 # Why?
+Why am I creating this repository? For fun. I had some time off and was bored.<br>
 It took me over a dozen hours to find and collect all of this data. (I know I'm not very good at searching)<br>
 I even travelled to Warsaw to find some of the information.<br>
-Why am I creating this repository? For fun. I had some time off and was bored.<br>
 Sorry for the bad quality of files. I had to reduce it's size because of how Github works.
 
 # Thanks
@@ -48,5 +48,9 @@ Authors:
 - Henryk Zub
 - Antoni W. Mazurkiewicz
 - A. P. Yershov / Andrej Petrovič Eršov / Andriej P. Jerszow
+- Barbara Jung
+- Kazimierz Lewandowski
 
 And big "Thank you" to all libraries and online archives containing files and documents.
+
+# Sources
