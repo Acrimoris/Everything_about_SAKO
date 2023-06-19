@@ -54,7 +54,7 @@ Authors:
 And big "Thank you" to all libraries and online archives containing files and documents.
 
 # Sources
-CIA_Summary_Automatic_Coding_System_SAKO_Leon_Lukaszewicz - https://historiainformatyki.pl/dokument.php?nonav=1&&nrar=7&nrzesp=1&sygn=VII/1/12&handle=1443
-Język programowania SAKO: dla ZAM-41: opis (Jan Szmelter, Krystyna Balińska-Deloff) - https://delibra.bg.polsl.pl/dlibra/publication/25037/edition/23361
-System Automatycznego Kodowania SAKO. Część I, Opis języka (Leon Łukaszewicz, Antoni Mazurkiewicz) - https://delibra.bg.polsl.pl/dlibra/publication/31819/edition/28222
+CIA_Summary_Automatic_Coding_System_SAKO_Leon_Lukaszewicz - https://historiainformatyki.pl/dokument.php?nonav=1&&nrar=7&nrzesp=1&sygn=VII/1/12&handle=1443<br>
+Język programowania SAKO: dla ZAM-41: opis (Jan Szmelter, Krystyna Balińska-Deloff) - https://delibra.bg.polsl.pl/dlibra/publication/25037/edition/23361<br>
+System Automatycznego Kodowania SAKO. Część I, Opis języka (Leon Łukaszewicz, Antoni Mazurkiewicz) - https://delibra.bg.polsl.pl/dlibra/publication/31819/edition/28222<br>
 Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/Content/5309/PDF/a63n2.pdf
