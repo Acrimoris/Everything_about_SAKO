@@ -50,6 +50,7 @@ Authors:
 - A. P. Yershov / Andrej Petrovič Eršov / Andriej P. Jerszow
 - Barbara Jung
 - Kazimierz Lewandowski
+- Barbara Jermakowicz
 
 And big "Thank you" to all libraries and online archives containing files and documents.
 
