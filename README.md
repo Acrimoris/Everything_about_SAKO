@@ -61,3 +61,7 @@ Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw
 System automatycznego kodowania SAKO. Wydanie II, poszerzone (Leon Łukaszewicz, Antoni Mazurkiewicz) - Main Library of the Military University of Technology<br>
 Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of the Military University of Technology<br>
 Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology 
+
+
+# Contact
+If you have any information about SAKO not included here, any good suggestion, or something important to tell me, feel free to send me an e-mail.
