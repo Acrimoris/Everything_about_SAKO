@@ -61,7 +61,9 @@ System Automatycznego Kodowania SAKO. Część I, Opis języka (Leon Łukaszewic
 Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/Content/5309/PDF/a63n2.pdf<br>
 System automatycznego kodowania SAKO. Wydanie II, poszerzone (Leon Łukaszewicz, Antoni Mazurkiewicz) - Main Library of the Military University of Technology<br>
 Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of the Military University of Technology<br>
-Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology 
+Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology<br>
+SAKO-An Automatic Coding System (Leon Łukaszewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800086?via%3Dihub<br>
+Arithmetic Formulae and the Use of Subroutines in SAKO (Antoni Mazurkiewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800098?via%3Dihub
 
 
 # Contact
