@@ -1,4 +1,4 @@
-# What is this folder?
+# What is in this folder?
 Files that I accidentally found searching for information on SAKO.
 # Sources
 Język programowania ALGOL dla ZAM-41 : opis (Jowita Koncewicz, Maria Łącka) - https://delibra.bg.polsl.pl/dlibra/publication/25038/edition/23362<br>
