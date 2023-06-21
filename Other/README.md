@@ -6,3 +6,4 @@ Język programowania COBOL dla ZAM 41 : opis (Krystyna Niemiec-Pomaska) - https:
 CIA raport USRR 1980 / JPRS ID: 9206 USSR REPORT CYBERNETICS, COMPUTERS AND AUTOMATION TECHNOLOGY - https://www.cia.gov/readingroom/document/cia-rdp82-00850r000200100037-8<br>
 Języki programowania opracowane w Polsce - https://bcpw.bg.pw.edu.pl/Content/2144/PDF/10zrzhp_jezyki.pdf<br>
 Polish Python a short report from a short experiment (Jakub Swacha) - https://drops.dagstuhl.de/opus/volltexte/2020/12312/pdf/OASIcs-ICPEC-2020-25.pdf
+Informatyka 8-12 1989 r. - https://delibra.bg.polsl.pl/Content/6758/Nr%208-12_89_AB.pdf
