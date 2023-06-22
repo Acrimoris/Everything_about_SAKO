@@ -54,6 +54,7 @@ Authors:
 - Jacek Moszczyński
 - Jan Borowiec
 - Alfred Szurman
+- Jerzy Swianiewicz
 
 And big "Thank you" to all libraries and online archives containing files and documents.
 
