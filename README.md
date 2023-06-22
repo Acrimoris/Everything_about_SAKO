@@ -53,6 +53,7 @@ Authors:
 - Andrzej Wiśniewski
 - Jacek Moszczyński
 - Jan Borowiec
+- Alfred Szurman
 
 And big "Thank you" to all libraries and online archives containing files and documents.
 
