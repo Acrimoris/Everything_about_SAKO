@@ -67,8 +67,9 @@ System automatycznego kodowania SAKO. Wydanie II, poszerzone (Leon Łukaszewicz,
 Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of the Military University of Technology<br>
 Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology<br>
 SAKO-An Automatic Coding System (Leon Łukaszewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800086?via%3Dihub<br>
-Arithmetic Formulae and the Use of Subroutines in SAKO (Antoni Mazurkiewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800098?via%3Dihub
+Arithmetic Formulae and the Use of Subroutines in SAKO (Antoni Mazurkiewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800098?via%3Dihub<br>
+Autokody i programowanie maszyn cyfrowych (Konrad Fiałkowski) - Scanned my own book
 
 
 # Contact
-If you have any information about SAKO not included here, any good suggestion, or something important to tell me, feel free to send me an e-mail.
+If you have any information about SAKO not included here, any good suggestion, or something to tell or ask me, feel free to send me an e-mail.
