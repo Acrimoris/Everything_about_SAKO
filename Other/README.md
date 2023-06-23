@@ -7,5 +7,5 @@ CIA raport USRR 1980 / JPRS ID: 9206 USSR REPORT CYBERNETICS, COMPUTERS AND AUTO
 Języki programowania opracowane w Polsce - https://bcpw.bg.pw.edu.pl/Content/2144/PDF/10zrzhp_jezyki.pdf<br>
 Polish Python a short report from a short experiment (Jakub Swacha) - https://drops.dagstuhl.de/opus/volltexte/2020/12312/pdf/OASIcs-ICPEC-2020-25.pdf<br>
 Informatyka 8-12 1989 r. - https://delibra.bg.polsl.pl/Content/6758/Nr%208-12_89_AB.pdf<br>
-ZAM-41, Kompendium oprogramowania (Jan Wierzbowski) - https://historiainformatyki.pl/dokument.php?nonav=&nrar=14&nrzesp=1&sygn=XIV%2F1%2F4&handle=1
-Zasoby symulacyjne języka LOGLAN - 
+ZAM-41, Kompendium oprogramowania (Jan Wierzbowski) - https://historiainformatyki.pl/dokument.php?nonav=&nrar=14&nrzesp=1&sygn=XIV%2F1%2F4&handle=1<br>
+Zasoby symulacyjne języka LOGLAN - https://delibra.bg.polsl.pl/Content/49624/BCPS-54076_1989_Zasoby-symulacyjne-j.pdf
