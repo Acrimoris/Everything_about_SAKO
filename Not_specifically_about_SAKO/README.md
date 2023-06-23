@@ -4,4 +4,5 @@ This is directory for documents that mention SAKO in meaningful way, but don't f
 Jan Szmelter wspomnienie pośmiertne - https://docplayer.pl/23706972-4a-ll-pl-issn-mechanika-teoretyczna-i-s-to-s-owa-na-kwartalnik-tom-17-zeszyt-2-warszawa-1979.html<br>
 Analysis of nonlinear circuts on digital computer (Ryszard Łukaszewicz) - https://delibra.bg.polsl.pl/Content/31207/BCPS_34961_-_Analysis-of-nonlinea.pdf<br>
 References to other documents Turski Eastern Europe 1964 - https://historiainformatyki.pl/dokument.php?nrar=6&nrzesp=6&sygn=V/1/3&handle=1021<br>
-Report of a Visit to Discuss Common Programming Languages in Czechoslowakia and Poland, 1963 - https://dl.acm.org/doi/10.1145/368310.368328
+Report of a Visit to Discuss Common Programming Languages in Czechoslowakia and Poland, 1963 - https://dl.acm.org/doi/10.1145/368310.368328<br>
+Some Results of Research on Automatic Programming in Eastern Europe (Władysław Turski) - https://www.sciencedirect.com/science/article/abs/pii/S0065245808603526
