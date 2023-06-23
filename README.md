@@ -55,6 +55,8 @@ Authors:
 - Jan Borowiec
 - Alfred Szurman
 - Jerzy Swianiewicz
+- Władysław Turski
+- Konrad Fiałkowski
 
 And big "Thank you" to all libraries and online archives containing files and documents.
 
