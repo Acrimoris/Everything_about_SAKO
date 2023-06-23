@@ -1,5 +1,5 @@
 # What is in this folder?
-Files that I accidentally found searching for information on SAKO.
+Files that I accidentally found searching for information about SAKO. They are not really about SAKO, but still interesting.
 # Sources
 Język programowania ALGOL dla ZAM-41 : opis (Jowita Koncewicz, Maria Łącka) - https://delibra.bg.polsl.pl/dlibra/publication/25038/edition/23362<br>
 Język programowania COBOL dla ZAM 41 : opis (Krystyna Niemiec-Pomaska) - https://delibra.bg.polsl.pl/dlibra/publication/25039/edition/23363/instytut-maszyn-matematycznych-bointe-jezyk-programowania-cobol-dla-zam-41-opis<br>
