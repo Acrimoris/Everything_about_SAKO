@@ -21,6 +21,16 @@ It took me over thirty hours to find and collect all of this data. (I know I'm n
 I even travelled to Warsaw to find some of the information.<br>
 Sorry for the bad quality of the files. I had to reduce their size because of how GitHub works.
 
+# English
+If you don't know Polish, the English materials are in files:
+- CIA_Summary_Automatic_Coding_System_SAKO_Leon_Lukaszewicz (CIA-RDP80T00246A011500230001-8)
+- Algorytmy_Vol.1_No.1_PAN
+- One summary in Algorytmy_Vol.1_No.2_PAN
+- Arithmetic_Formulae_and_the_Use_of_Subroutines_in_SAKO_(A._W._Mazurkiewicz)
+- Nonlinear-circuts-on-digital-computers-Ryszard-Lukaszewicz
+- Report_of_a_Visit to_Discuss_Common_Programming_Languages_in_Czechoslovakia_and_Poland_1963
+- Some_Results_of_Research_on_Automatic_Programming_in_Eastern_Europe_(Wladyslaw_Turski)
+
 # Thanks
 I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.<br>
 Creators:
@@ -61,7 +71,7 @@ Authors:
 And big "Thank you" to all libraries and online archives containing files and documents.
 
 # Sources
-CIA_Summary_Automatic_Coding_System_SAKO_Leon_Lukaszewicz - https://historiainformatyki.pl/dokument.php?nonav=1&&nrar=7&nrzesp=1&sygn=VII/1/12&handle=1443<br>
+CIA_Summary_Automatic_Coding_System_SAKO_Leon_Lukaszewicz (CIA-RDP80T00246A011500230001-8) - https://historiainformatyki.pl/dokument.php?nonav=1&&nrar=7&nrzesp=1&sygn=VII/1/12&handle=1443<br>
 Język programowania SAKO: dla ZAM-41: opis (Jan Szmelter, Krystyna Balińska-Deloff) - https://delibra.bg.polsl.pl/dlibra/publication/25037/edition/23361<br>
 System Automatycznego Kodowania SAKO. Część I, Opis języka (Leon Łukaszewicz, Antoni Mazurkiewicz) - https://delibra.bg.polsl.pl/dlibra/publication/31819/edition/28222<br>
 Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/dlibra/publication/5457/edition/5309<br>
