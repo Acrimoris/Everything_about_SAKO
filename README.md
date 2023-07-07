@@ -29,7 +29,8 @@ If you don't know Polish, the English materials are in files:
 - Arithmetic_Formulae_and_the_Use_of_Subroutines_in_SAKO_(A._W._Mazurkiewicz)
 - Nonlinear-circuts-on-digital-computers-Ryszard-Lukaszewicz
 - Report_of_a_Visit to_Discuss_Common_Programming_Languages_in_Czechoslovakia_and_Poland_1963
-- Some_Results_of_Research_on_Automatic_Programming_in_Eastern_Europe_(Wladyslaw_Turski)     
+- Some_Results_of_Research_on_Automatic_Programming_in_Eastern_Europe_(Wladyslaw_Turski)
+- Digital_Computer_Newsletter_Vol_16_No_1
 
 Note, that because authors wanted to make SAKO, and its documentation easier to understand, the commands in English articles are in English. However, those were probably never implemented and used.
 
