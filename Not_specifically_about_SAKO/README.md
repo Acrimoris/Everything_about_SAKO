@@ -5,3 +5,4 @@ Jan Szmelter wspomnienie pośmiertne - https://docplayer.pl/23706972-4a-ll-pl-is
 Analysis of nonlinear circuts on digital computer (Ryszard Łukaszewicz) - https://delibra.bg.polsl.pl/Content/31207/BCPS_34961_-_Analysis-of-nonlinea.pdf<br>
 Report of a Visit to Discuss Common Programming Languages in Czechoslowakia and Poland, 1963 - https://dl.acm.org/doi/10.1145/368310.368328<br>
 Some Results of Research on Automatic Programming in Eastern Europe (Władysław Turski) - https://www.sciencedirect.com/science/article/abs/pii/S0065245808603526
+Digital Computer Newsletter Vol. 16 No. 1 - https://web.archive.org/web/20180603153655/http://www.dtic.mil/docs/citations/AD0694639
