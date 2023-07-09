@@ -79,6 +79,7 @@ Język programowania SAKO: dla ZAM-41: opis (Jan Szmelter, Krystyna Balińska-De
 System Automatycznego Kodowania SAKO. Część I, Opis języka (Leon Łukaszewicz, Antoni Mazurkiewicz) - https://delibra.bg.polsl.pl/dlibra/publication/31819/edition/28222<br>
 Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/dlibra/publication/5457/edition/5309<br>
 Algorytmy Vol. 1 No. 1 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/dlibra/publication/5456/edition/5308<br>
+Analysis of nonlinear circuts on digital computer (Ryszard Łukaszewicz) - https://delibra.bg.polsl.pl/Content/31207/BCPS_34961_-_Analysis-of-nonlinea.pdf<br>
 System automatycznego kodowania SAKO. Wydanie II, poszerzone (Leon Łukaszewicz, Antoni Mazurkiewicz) - Main Library of the Military University of Technology<br>
 Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of the Military University of Technology<br>
 Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology<br>
