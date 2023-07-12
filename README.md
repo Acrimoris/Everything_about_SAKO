@@ -63,6 +63,10 @@ Authors:
 - Barbara Jung
 - Kazimierz Lewandowski
 - Barbara Jermakowicz
+- Aleksandra Kasprowicz
+- Franciszek Kern
+- Stefan Sawicki
+- Tadeusz Szponarski
 - Andrzej Wiśniewski
 - Jacek Moszczyński
 - Jan Borowiec
