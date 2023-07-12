@@ -3,12 +3,12 @@ This file is for sources that I couldn't access and/or post here. (They probably
 # Sources
 Location known:  
 
-"System automatycznego kodowania SAKO: podręcznik programowania maszyny cyfrowej ZAM-41", Barbara Jung, 1972  
+"System automatycznego kodowania SAKO: podręcznik programowania maszyny cyfrowej ZAM-41", Barbara Jung, Kazimierz Lewandowski, 1972  
 a) Biuro Projektów Przemysłu Mięsnego  
 Location:  
 National Library in Poland  
 
-"System automatycznego kodowania SAKO", Barbara Jermakowicz, 1972  
+"System automatycznego kodowania SAKO", Barbara Jermakowicz and other, 1972  
 a) Gliwice : Biuro Projektów Syntezy Chemicznej. Pracownia Techniki Obliczeniowej  
 Location:  
 National Library in Poland  
