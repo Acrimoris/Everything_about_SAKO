@@ -62,6 +62,7 @@ Authors:
 - Antoni W. Mazurkiewicz
 - Barbara Jung
 - Kazimierz Lewandowski
+- Jolanta Makowska
 - Barbara Jermakowicz
 - Aleksandra Kasprowicz
 - Franciszek Kern
