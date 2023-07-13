@@ -86,7 +86,7 @@ Algorytmy Vol. 1 No. 2 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw
 Algorytmy Vol. 1 No. 1 (Instytut Maszyn Matematycznych PAN) - https://bcpw.bg.pw.edu.pl/dlibra/publication/5456/edition/5308<br>
 Algorytmy Vol. 2 No. 4 (Instytut Maszyn Matematycznych PAN) - https://delibra.bg.polsl.pl/dlibra/publication/29215/edition/25630  
 Algorytmy Vol. 3 No. 5 (Instytut Maszyn Matematycznych PAN) - https://delibra.bg.polsl.pl/dlibra/publication/29216/edition/25631  
-Analysis of nonlinear circuts on digital computer (Ryszard Łukaszewicz) - https://delibra.bg.polsl.pl/Content/31207/BCPS_34961_-_Analysis-of-nonlinea.pdf<br>
+Analysis of nonlinear circuts on digital computer (Ryszard Łukaszewicz) - https://delibra.bg.polsl.pl/dlibra/publication/34961/edition/31207<br>
 System automatycznego kodowania SAKO. Wydanie II, poszerzone (Leon Łukaszewicz, Antoni Mazurkiewicz) - Main Library of the Military University of Technology<br>
 Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of the Military University of Technology<br>
 Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology<br>
