@@ -15,7 +15,7 @@ The compilation proceeded in two stages:
 The most characteristic feature of SAKO are Polish commands, e.g. CZYTAJ, SKOCZ DO.
 Designed primarily for programming numerical calculations. The larger systems at the Military University of Technology were transformed into a system of calculations using the finite element method.
 
-* Version for Mińsk-22 is drastically different from versions on other machines, but is still documented as SAKO
+*Version for Mińsk-22 is drastically different from versions on other machines, but is still documented as SAKO
 # Why?
 Why am I creating this repository? For fun. I had some time off and was bored.<br>
 It took me over thirty hours to find and collect all of this data. (I know I'm not very good at searching)<br>
