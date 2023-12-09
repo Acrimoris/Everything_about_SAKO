@@ -1,11 +1,14 @@
 # What is this file?
-This file is for sources that I couldn't access and/or post here. (They probably exist, but don't have to)
+This file is for sources that I couldn't access. (They probably exist, but don't have to)
+I'm still searching for them, but not very actively.
 # Sources
 "A method of addressing used in SAKO-SAS translations", A. P. Yershov 
 
 "Arithmetical operations and subroutines in SAKO", 1960
 
 "ZAM-41 Oprogramowanie, tom III - Język SAKO", 1971
+
+"Opis języka SAKO dla maszyny ZAM-41", A. Kasprowicz, S. Sawicki and others, Gliwice, luty 1971
 
 "Programowanie SAKO dla początkujących" (Jan Szmelter, Krystyna Balińska-Deloff)  
 a) Katedra Mechaniki Teoretycznej i Stosowanej — Politechnika Łódzka, Łódź 1962  
