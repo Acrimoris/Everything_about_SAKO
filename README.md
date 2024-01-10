@@ -93,9 +93,9 @@ Translator języka SAKO na język MAT dla maszyny Mińsk-22 - Main Library of th
 Programowanie SAKO na Mińsk-22 (Jan Szmelter, Henryk Zub) - Main Library of the Military University of Technology<br>
 SAKO-An Automatic Coding System (Leon Łukaszewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800086?via%3Dihub<br>
 Arithmetic Formulae and the Use of Subroutines in SAKO (Antoni Mazurkiewicz) - https://www.sciencedirect.com/science/article/abs/pii/S0066413861800098?via%3Dihub<br>
-Autokody i programowanie maszyn cyfrowych (Konrad Fiałkowski) - Scanned my own book
+Autokody i programowanie maszyn cyfrowych (Konrad Fiałkowski) - Scanned my own book  
 System Automatycznego KOdowania SAKO (Barbara Jermakowicz, Aleksandra Kasprowicz, Franciszek Kern, Stefan Sawicki, Jerzy Swianiewicz, Tadeusz Szponarski) - National Library in Poland    
-System automatycznego kodowania SAKO. Podręcznik programowania maszyny cyfrowej ZAM-41 (Barbara Jung, Kazimierz Lewandowski) - National Library in Poland
+System automatycznego kodowania SAKO. Podręcznik programowania maszyny cyfrowej ZAM-41 (Barbara Jung, Kazimierz Lewandowski) - National Library in Poland  
 
 
 # Contact
