@@ -1,5 +1,5 @@
 # Quick history
-SAKO (pl. System Automatycznego Kodowania (en. An Automatic Coding System)) - algorithmic language of Polish computers: XYZ, ZAM-2, ZAM-21, ZAM-41 and Mińsk-22* focused on receiving an effective code. Initially, it only supported fixed decimal calculations. In the version for ZAM-21 and ZAM-41, a variable decimal point has been added.
+SAKO (pl. System Automatycznego Kodowania (en. An Automatic Coding System)) - algorithmic language of Polish computers: XYZ, ZAM-2, ZAM-21, ZAM-41 and computer Mińsk-22* focused on receiving an effective code. Created in years 1959-1960. Initially, it only supported fixed decimal calculations. In the version for ZAM-21 and ZAM-41, a variable decimal point has been added.
 
 General features of the SAKO language:
 - commands similar to sentences used in natural language
@@ -37,7 +37,7 @@ Note, that because authors wanted to make SAKO, and its documentation easier to 
 
 # Thanks
 I would like to thank especially all of the authors of the documents, redactors and helpers. Also big thanks to the creators of SAKO, and other people participating in it's creation.<br>
-Creators:
+Creators of SAKO:
 - Leon Łukaszewicz
 - Antoni W. Mazurkiewicz
 - Jan Borowiec
@@ -49,13 +49,13 @@ Creators:
 - Stefan Sawicki
 - Andrzej Wiśniewski
 
-Participating in creation:
+Participating in creation of SAKO:
 - Ludwik Czaja
 - Jacek Witaszek
 - Danuta Kosecka
 - Ewa Zaborowska
 
-Authors:
+Authors of documents and books:
 - Jan Szmelter
 - Krystyna Balińska-Deloff
 - Leon Łukaszewicz
