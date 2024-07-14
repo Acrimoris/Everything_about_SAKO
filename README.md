@@ -96,7 +96,7 @@ Arithmetic Formulae and the Use of Subroutines in SAKO (Antoni Mazurkiewicz) - h
 Autokody i programowanie maszyn cyfrowych (Konrad Fiałkowski) - Scanned my own book  
 System Automatycznego KOdowania SAKO (Barbara Jermakowicz, Aleksandra Kasprowicz, Franciszek Kern, Stefan Sawicki, Jerzy Swianiewicz, Tadeusz Szponarski) - National Library in Poland    
 System automatycznego kodowania SAKO. Podręcznik programowania maszyny cyfrowej ZAM-41 (Barbara Jung, Kazimierz Lewandowski) - National Library in Poland  
-Maszyna cyfrowa ZAM-2. Budowa, programowanie, zastosowania (Konrad Fialkowski) - http://hint.org.pl/hid=D28E8
+Maszyna cyfrowa ZAM-2. Budowa, programowanie, zastosowania (Konrad Fiałkowski) - http://hint.org.pl/hid=D28E8
 
 
 # Contact
